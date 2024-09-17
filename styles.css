@@ -36,3 +36,11 @@ video,audio{
 		
 }
 
+li{
+	list-style-type:none;
+}
+
+a{
+	text-decoration-line:none;
+}
+
